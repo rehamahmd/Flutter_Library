@@ -1,0 +1,4 @@
+enum HotspotTypes {
+  info,
+  scene,
+}
